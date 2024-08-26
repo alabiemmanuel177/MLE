@@ -1,3 +1,2 @@
-### EAO.
-
-AI | Robotics | SW Dev | SE
+# EAO
+AI, Robotics, SW
