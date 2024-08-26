@@ -1,3 +1,1 @@
-## EAO.
-#### Software Engineer
-As a software engineer and startup founder, I am dedicated to developing innovative software solutions that drive the future of technology. My expertise spans full-stack and mobile development, system architecture, and cloud computing, enabling me to build scalable and efficient applications. Passionate about turning visionary ideas into reality, I thrive on solving complex problems and creating impactful digital experiences. Whether it's developing robust web and mobile applications, architecting cloud-based solutions, or leading a dynamic team, I am committed to excellence and continuous learning in the ever-evolving tech landscape.
+AI | Robotics | SW Dev | SE
